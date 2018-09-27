@@ -1,6 +1,6 @@
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 http_proxy=http://zs-gip-ldn.gam.com:9480
-https_proxy=http://zs-gip-ldn.gam.com:9480
-ftp_proxy=http://zs-gip-ldn.gam.com:9480
+https_proxy=http://zs-gip-zur.gam.com:8080
+ftp_proxy=http://zs-gip-zur.gam.com:8080
 no_proxy=localhost,127.0.0.1,193.202.224.142,dba-mgmt1.gam.com
 

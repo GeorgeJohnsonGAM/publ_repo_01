@@ -1,0 +1,12 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+http_proxy=http://zs-gip-ldn.gam.com:9480
+https_proxy=http://zs-gip-ldn.gam.com:9480
+ftp_proxy=http://zs-gip-ldn.gam.com:9480
+no_proxy=localhost,127.0.0.1,193.202.224.142,dba-mgmt1.gam.com
+
+ ____ _____ _   _ _____ _____ 
+/ ___|_   _| | | |  ___|  ___|
+\___ \ | | | | | | |_  | |_   
+ ___) || | | |_| |  _| |  _|  
+|____/ |_|  \___/|_|   |_|    
+                              

@@ -3,3 +3,9 @@ http_proxy=http://zs-gip-ldn.gam.com:9480
 https_proxy=http://zs-gip-ldn.gam.com:9480
 ftp_proxy=http://zs-gip-ldn.gam.com:9480
 
+  ______        __  _ 
+ / ___\ \      / / | |
+| |  _ \ \ /\ / /  | |
+| |_| | \ V  V / |_| |
+ \____|  \_/\_/ \___/ 
+                      
